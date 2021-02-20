@@ -1,0 +1,37 @@
+body {
+  background-color: #D3E0EA;
+}
+
+hr {
+  border-color: #F6F5F5;
+  background-color: #D3E0EA;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 10%;
+}
+h2{
+  background-color: #F6F5F5;
+  height: 27px;
+  color: #1687a7;
+  width: 850px
+}
+
+h3 {
+  background-color: #F6F5F5;
+  height: 20px;
+  color: #1687a7;
+  width: 245px
+}
+p{
+  background-color: #D3E0EA;
+  color: #276678;
+}
+table{
+  background-color: #D3E0EA;
+  color: #276678;
+}
+li{
+  background-color: #D3E0EA;
+  color: #276678;
+}
